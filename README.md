@@ -10,8 +10,8 @@
 
 ## 硬件条件：GPU显存11G及以上（eg. Nivdia 2080Ti）
 耗时（eg. Nvdia 2080Ti）：
-分类模块:10~15 min
-事件抽取模型（esemble）: 6~7 hour
+分类模块:10-15 min
+事件抽取模型（esemble）: 6-7 hour
 ## 1.执行分类模型：
 训练集数据路径：code/CCKS-Cls/dataset/trans_train.json
 测试集数据路径：code/CCKS-Cls/dataset/trans_test.json
